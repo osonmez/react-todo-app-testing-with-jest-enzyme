@@ -1,5 +1,11 @@
 .App {
+  margin: 20px auto;
+  width: 80%;
   text-align: center;
+  box-shadow: 0 2px 3px #CCC;
+  border: 1 px solid #EEE;
+  padding: 10px;
+  box-sizing: border-box;
 }
 
 .App-logo {
